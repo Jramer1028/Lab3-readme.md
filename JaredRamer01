@@ -2,3 +2,17 @@ SOFTWARE
 i: The role of an application software is something that allows the user to accomplish something. An example of this would be using google docs to write a paper
 i2: The role of an operating software is to creat a interface and allow interaction between the hardware and the user. An example of this is windows. Microsoft windows is what allow you to pull up the application and have the user interact with it.
 i3:The role of an utility software incudes software that allows the user to fix or modify his/her computer. The most common example of this would be anti-virus software. 
+
+VIRTUALIZATION
+i: Virtualization allows servers to utilize the available space they have in them, as to not waist any space. The problems that are solved with virtualization are space related. With virtualization you can save space on servers. 
+i2: Hypervisors "were developed to give multiple users simultaneous access to computers that performed batch processing", this means that not everyone needed a computer to be able to do a task, and they could instead share one computer.
+
+PYTHON
+i: "Pseudocode is a method of planning which enables the programmer to plan without worrying about syntax." This makes it so the programmer can write what he wants to happen without having to code in the specific set of rules that are applied. 
+i2: The difference between a interpreter and compiler  is what the result is. An interpreter uses a program to get a result/product, while a compiler produces a program written in assembly language
+
+CAREER EXPLORATION
+College Central
+i1: All the jobs that are listed are all requiring of some programming education, and it seems all are in demand of workers. 
+i2: The site has accesss to 818 jobs, not all involve programming, but i can promise that all use some form of technechal assistance in some way or another. A janitor has to clock in, or be able to repair   
+
