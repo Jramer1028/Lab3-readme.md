@@ -1,41 +1,48 @@
+
 SOFTWARE
 i: The role of an application software is something that allows the user to accomplish something. An example of this would be using google docs to write a paper
-i2: The role of an operating software is to creat a interface and allow interaction between the hardware and the user. An example of this is windows. Microsoft windows is what allow you to pull up the application and have the user interact with it.
-i3:The role of an utility software incudes software that allows the user to fix or modify his/her computer. The most common example of this would be anti-virus software. 
+i2: The role of an operating software is to create an interface and allow interaction between the hardware and the user. An example of this is windows. Microsoft windows is what allows you to pull up the application and have the user interact with it.
+i3:The role of a utility software includes software that allows the user to fix or modify his/her computer. The most common example of this would be anti-virus software.
 
 VIRTUALIZATION
-i: Virtualization allows servers to utilize the available space they have in them, as to not waist any space. The problems that are solved with virtualization are space related. With virtualization you can save space on servers. 
+i: Virtualization allows servers to utilize the available space they have in them, as to not waste any space. The problems that are solved with virtualization are space related. With virtualization you can save space on servers.
 i2: Hypervisors "were developed to give multiple users simultaneous access to computers that performed batch processing", this means that not everyone needed a computer to be able to do a task, and they could instead share one computer.
-
 PYTHON
-i: "Pseudocode is a method of planning which enables the programmer to plan without worrying about syntax." This makes it so the programmer can write what he wants to happen without having to code in the specific set of rules that are applied. 
-i2: The difference between a interpreter and compiler  is what the result is. An interpreter uses a program to get a result/product, while a compiler produces a program written in assembly language
+
+i: "Pseudocode is a method of planning which enables the programmer to plan without worrying about syntax." This makes it so the programmer can write what he wants to happen without having to code in the specific set of rules that are applied.
+i2: The difference between an interpreter and compiler  is what the result is. An interpreter uses a program to get a result/product, while a compiler produces a program written in assembly language
 
 CAREER EXPLORATION
 College Central
-i1: All the jobs that are listed are all requiring of some programming education, and it seems all are in demand of workers. 
-i2: The site has accesss to 818 jobs, not all involve programming, but i can promise that all use some form of technechal assistance in some way or another. A janitor has to clock in, or be able to repair   
+
+i1: All the jobs that are listed are all requiring of some programming education, and it seems all are in demand of workers.
+i2: The site has access to 818 jobs, not all involve programming, but I can promise that all use some form of technical assistance in some way or another. A janitor has to clock in, or be able to repair  
+
 Certification
-i: With a CompTIA certificate, this means you are certified in preforming data analysis, and to be able to identify the flaws in the firewall, or other threats and risks to an organization.
-i(2) With a certification in CISCO, you can be offer you training and certification in cloud, data centers, and other skills that could be very useful to a company that needs help storing data. 
-i(3) With a certification in CISSP, it proves you can implement and manage a best-in-class cybersecurity program for necessity for companies who wish to be safe with their product, and the companies that can will pay big for that kind of experties. 
+i: With a CompTIA certificate, this means you are certified in performing data analysis, and to be able to identify the flaws in the firewall, or other threats and risks to an organization.
+i(2) With a certification in CISCO, you can offer you training and certification in cloud, data centers, and other skills that could be very useful to a company that needs help storing data.
+i(3) With a certification in CISSP, it proves you can implement and manage a best-in-class cybersecurity program for necessity for companies who wish to be safe with their product, and the companies that can will pay big for that kind of expertise.
 
 Certificates
-i: you can be certified in CISCO, Computer Networkning, system archetechture. 
+i: you can be certified in CISCO, Computer Networking, system architecture.
 
 Co-ops / Internships
-i:Going Co-Op gives students the physical experience to learn, instead of sitting in a class, they would help others, and at the same time learn about what field they are in; in other words, it gives them a real world experienc. It is also a great way to earn collage credits.
-To become a Co-Op, one must 
+
+i:Going Co-Op gives students the physical experience to learn, instead of sitting in a class, they would help others, and at the same time learn about what field they are in; in other words, it gives them a real world experience. It is also a great way to earn college credits.
+To become a Co-Op, one must
+
 > Are currently enrolled at Cuyahoga Community College
-> Have completed 12 credit hours of college coursework (includes transfer credits) with at least two courses related to your major field
+> Have completed 12 credit hours of college coursework (including transfer credits) with at least two courses related to your major field
 >And have a GPA of 2.75 or higher
 
 To become an intern means for the person to work for no pay, but they get to be very involved, and see what to do so they may one day actually work and do a good job working at the place they are interning.
-One downside of being an intern is that you recieve no collage credit hours.
+One downside of being an intern is that you receive no college credit hours.
 
-Industry Associations / Student Organizations 
-i:The cyber security club, one would join to take a step to learning cyber security, and to meet people with similar interest as them. It would also introduce them into similar organizations that will also excell them in their prefered carreer. 
+Industry Associations / Student Organizations
 
-ia: The CCDC is the way that institutions are able to build a meaningful mechanism by which institutions of higher education may evaluate their programs; give the participants a chance to apply their skills that they have learned in a practical sense; help in a team building; and to spread the word of the program. The teams are graded on how well they can identify and respond to outside threat.
+i:The cyber security club, one would join to take a step to learning cyber security, and to meet people with similar interests as them. It would also introduce them into similar organizations that will also excel them in their preferred career.
 
-Jared Ramer.
+ia: The CCDC is the way that institutions are able to build a meaningful mechanism by which institutions of higher education may evaluate their programs; give the participants a chance to apply their skills that they have learned in a practical sense; help in a team building; and to spread the word of the program. The teams are graded on how well they can identify and respond to outside threats.
+
+
+Jared Ramer
